@@ -1,4 +1,4 @@
-package com.example.busschedule
+package com.example.busschedule.viewmodels
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
